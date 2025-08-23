@@ -15,6 +15,7 @@ class App extends Component{
         <text style={styles.texto}>Bem Vindo</text>
       </View>
       //add
+      //add
     );
   }
 }
