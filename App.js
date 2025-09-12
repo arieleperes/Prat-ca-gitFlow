@@ -5,7 +5,7 @@ class App extends Component{
   constructor(props){
     super(props);
     this.state ={
-      nome: "Steve"
+     // nome: ""
     };
   }
   render(){
@@ -17,6 +17,7 @@ class App extends Component{
       //add
       //add    
       //add
+      //teste para aula de git
     );
   }
 }
