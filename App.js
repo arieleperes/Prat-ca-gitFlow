@@ -5,7 +5,7 @@ class App extends Component{
   constructor(props){
     super(props);
     this.state ={
-      nome: "Steve"
+     // nome: ""
     };
   }
   render(){
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
   input:{
     height:45,
     borderWidth:1,
-    borderColor: "#222",
+    borderColor: "#6c3131ff",
     margin: 10,
   },
   texto:{
